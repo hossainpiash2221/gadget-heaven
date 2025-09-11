@@ -1,0 +1,802 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Laptops Product 1",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-abyss-blue-04-500x500.webp",
+    "category": "Laptops",
+    "price": 60,
+    "description": "This is Laptops product 1, high-quality and reliable.",
+    "Specification": [
+      "Spec 1A",
+      "Spec 1B",
+      "Spec 1C"
+    ],
+    "availability": false,
+    "rating": 3.8,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 2,
+    "product_title": "Laptops Product 2",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 70,
+    "description": "This is Laptops product 2, high-quality and reliable.",
+    "Specification": [
+      "Spec 2A",
+      "Spec 2B",
+      "Spec 2C"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 3,
+    "product_title": "Laptops Product 3",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 80,
+    "description": "This is Laptops product 3, high-quality and reliable.",
+    "Specification": [
+      "Spec 3A",
+      "Spec 3B",
+      "Spec 3C"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 4,
+    "product_title": "Laptops Product 4",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 90,
+    "description": "This is Laptops product 4, high-quality and reliable.",
+    "Specification": [
+      "Spec 4A",
+      "Spec 4B",
+      "Spec 4C"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 5,
+    "product_title": "Laptops Product 5",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 100,
+    "description": "This is Laptops product 5, high-quality and reliable.",
+    "Specification": [
+      "Spec 5A",
+      "Spec 5B",
+      "Spec 5C"
+    ],
+    "availability": false,
+    "rating": 3.5,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 6,
+    "product_title": "Laptops Product 6",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 110,
+    "description": "This is Laptops product 6, high-quality and reliable.",
+    "Specification": [
+      "Spec 6A",
+      "Spec 6B",
+      "Spec 6C"
+    ],
+    "availability": true,
+    "rating": 3.8,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 7,
+    "product_title": "Laptops Product 7",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 120,
+    "description": "This is Laptops product 7, high-quality and reliable.",
+    "Specification": [
+      "Spec 7A",
+      "Spec 7B",
+      "Spec 7C"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 8,
+    "product_title": "Laptops Product 8",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 130,
+    "description": "This is Laptops product 8, high-quality and reliable.",
+    "Specification": [
+      "Spec 8A",
+      "Spec 8B",
+      "Spec 8C"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 9,
+    "product_title": "Laptops Product 9",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 140,
+    "description": "This is Laptops product 9, high-quality and reliable.",
+    "Specification": [
+      "Spec 9A",
+      "Spec 9B",
+      "Spec 9C"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 10,
+    "product_title": "Laptops Product 10",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-p14s-gen-2/thinkpad-p14s-gen-2-01-228x228.webp",
+    "category": "Laptops",
+    "price": 150,
+    "description": "This is Laptops product 10, high-quality and reliable.",
+    "Specification": [
+      "Spec 10A",
+      "Spec 10B",
+      "Spec 10C"
+    ],
+    "availability": true,
+    "rating": 3.5,
+    "brand": "Brand Laptops"
+  },
+  {
+    "product_id": 11,
+    "product_title": "Phones Product 1",
+    "product_image": "https://picsum.photos/seed/phones1/400/300",
+    "category": "Phones",
+    "price": 160,
+    "description": "This is Phones product 1, high-quality and reliable.",
+    "Specification": [
+      "Spec 1A",
+      "Spec 1B",
+      "Spec 1C"
+    ],
+    "availability": false,
+    "rating": 3.8,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 12,
+    "product_title": "Phones Product 2",
+    "product_image": "https://picsum.photos/seed/phones2/400/300",
+    "category": "Phones",
+    "price": 170,
+    "description": "This is Phones product 2, high-quality and reliable.",
+    "Specification": [
+      "Spec 2A",
+      "Spec 2B",
+      "Spec 2C"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 13,
+    "product_title": "Phones Product 3",
+    "product_image": "https://picsum.photos/seed/phones3/400/300",
+    "category": "Phones",
+    "price": 180,
+    "description": "This is Phones product 3, high-quality and reliable.",
+    "Specification": [
+      "Spec 3A",
+      "Spec 3B",
+      "Spec 3C"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 14,
+    "product_title": "Phones Product 4",
+    "product_image": "https://picsum.photos/seed/phones4/400/300",
+    "category": "Phones",
+    "price": 190,
+    "description": "This is Phones product 4, high-quality and reliable.",
+    "Specification": [
+      "Spec 4A",
+      "Spec 4B",
+      "Spec 4C"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 15,
+    "product_title": "Phones Product 5",
+    "product_image": "https://picsum.photos/seed/phones5/400/300",
+    "category": "Phones",
+    "price": 200,
+    "description": "This is Phones product 5, high-quality and reliable.",
+    "Specification": [
+      "Spec 5A",
+      "Spec 5B",
+      "Spec 5C"
+    ],
+    "availability": false,
+    "rating": 3.5,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 16,
+    "product_title": "Phones Product 6",
+    "product_image": "https://picsum.photos/seed/phones6/400/300",
+    "category": "Phones",
+    "price": 210,
+    "description": "This is Phones product 6, high-quality and reliable.",
+    "Specification": [
+      "Spec 6A",
+      "Spec 6B",
+      "Spec 6C"
+    ],
+    "availability": true,
+    "rating": 3.8,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 17,
+    "product_title": "Phones Product 7",
+    "product_image": "https://picsum.photos/seed/phones7/400/300",
+    "category": "Phones",
+    "price": 220,
+    "description": "This is Phones product 7, high-quality and reliable.",
+    "Specification": [
+      "Spec 7A",
+      "Spec 7B",
+      "Spec 7C"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 18,
+    "product_title": "Phones Product 8",
+    "product_image": "https://picsum.photos/seed/phones8/400/300",
+    "category": "Phones",
+    "price": 230,
+    "description": "This is Phones product 8, high-quality and reliable.",
+    "Specification": [
+      "Spec 8A",
+      "Spec 8B",
+      "Spec 8C"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 19,
+    "product_title": "Phones Product 9",
+    "product_image": "https://picsum.photos/seed/phones9/400/300",
+    "category": "Phones",
+    "price": 240,
+    "description": "This is Phones product 9, high-quality and reliable.",
+    "Specification": [
+      "Spec 9A",
+      "Spec 9B",
+      "Spec 9C"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 20,
+    "product_title": "Phones Product 10",
+    "product_image": "https://picsum.photos/seed/phones10/400/300",
+    "category": "Phones",
+    "price": 250,
+    "description": "This is Phones product 10, high-quality and reliable.",
+    "Specification": [
+      "Spec 10A",
+      "Spec 10B",
+      "Spec 10C"
+    ],
+    "availability": true,
+    "rating": 3.5,
+    "brand": "Brand Phones"
+  },
+  {
+    "product_id": 21,
+    "product_title": "Accessories Product 1",
+    "product_image": "https://picsum.photos/seed/accessories1/400/300",
+    "category": "Accessories",
+    "price": 260,
+    "description": "This is Accessories product 1, high-quality and reliable.",
+    "Specification": [
+      "Spec 1A",
+      "Spec 1B",
+      "Spec 1C"
+    ],
+    "availability": false,
+    "rating": 3.8,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 22,
+    "product_title": "Accessories Product 2",
+    "product_image": "https://picsum.photos/seed/accessories2/400/300",
+    "category": "Accessories",
+    "price": 270,
+    "description": "This is Accessories product 2, high-quality and reliable.",
+    "Specification": [
+      "Spec 2A",
+      "Spec 2B",
+      "Spec 2C"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 23,
+    "product_title": "Accessories Product 3",
+    "product_image": "https://picsum.photos/seed/accessories3/400/300",
+    "category": "Accessories",
+    "price": 280,
+    "description": "This is Accessories product 3, high-quality and reliable.",
+    "Specification": [
+      "Spec 3A",
+      "Spec 3B",
+      "Spec 3C"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 24,
+    "product_title": "Accessories Product 4",
+    "product_image": "https://picsum.photos/seed/accessories4/400/300",
+    "category": "Accessories",
+    "price": 290,
+    "description": "This is Accessories product 4, high-quality and reliable.",
+    "Specification": [
+      "Spec 4A",
+      "Spec 4B",
+      "Spec 4C"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 25,
+    "product_title": "Accessories Product 5",
+    "product_image": "https://picsum.photos/seed/accessories5/400/300",
+    "category": "Accessories",
+    "price": 300,
+    "description": "This is Accessories product 5, high-quality and reliable.",
+    "Specification": [
+      "Spec 5A",
+      "Spec 5B",
+      "Spec 5C"
+    ],
+    "availability": false,
+    "rating": 3.5,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 26,
+    "product_title": "Accessories Product 6",
+    "product_image": "https://picsum.photos/seed/accessories6/400/300",
+    "category": "Accessories",
+    "price": 310,
+    "description": "This is Accessories product 6, high-quality and reliable.",
+    "Specification": [
+      "Spec 6A",
+      "Spec 6B",
+      "Spec 6C"
+    ],
+    "availability": true,
+    "rating": 3.8,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 27,
+    "product_title": "Accessories Product 7",
+    "product_image": "https://picsum.photos/seed/accessories7/400/300",
+    "category": "Accessories",
+    "price": 320,
+    "description": "This is Accessories product 7, high-quality and reliable.",
+    "Specification": [
+      "Spec 7A",
+      "Spec 7B",
+      "Spec 7C"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 28,
+    "product_title": "Accessories Product 8",
+    "product_image": "https://picsum.photos/seed/accessories8/400/300",
+    "category": "Accessories",
+    "price": 330,
+    "description": "This is Accessories product 8, high-quality and reliable.",
+    "Specification": [
+      "Spec 8A",
+      "Spec 8B",
+      "Spec 8C"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 29,
+    "product_title": "Accessories Product 9",
+    "product_image": "https://picsum.photos/seed/accessories9/400/300",
+    "category": "Accessories",
+    "price": 340,
+    "description": "This is Accessories product 9, high-quality and reliable.",
+    "Specification": [
+      "Spec 9A",
+      "Spec 9B",
+      "Spec 9C"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 30,
+    "product_title": "Accessories Product 10",
+    "product_image": "https://picsum.photos/seed/accessories10/400/300",
+    "category": "Accessories",
+    "price": 350,
+    "description": "This is Accessories product 10, high-quality and reliable.",
+    "Specification": [
+      "Spec 10A",
+      "Spec 10B",
+      "Spec 10C"
+    ],
+    "availability": true,
+    "rating": 3.5,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 31,
+    "product_title": "Smartphones Product 1",
+    "product_image": "https://picsum.photos/seed/smartphones1/400/300",
+    "category": "Smartphones",
+    "price": 360,
+    "description": "This is Smartphones product 1, high-quality and reliable.",
+    "Specification": [
+      "Spec 1A",
+      "Spec 1B",
+      "Spec 1C"
+    ],
+    "availability": false,
+    "rating": 3.8,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 32,
+    "product_title": "Smartphones Product 2",
+    "product_image": "https://picsum.photos/seed/smartphones2/400/300",
+    "category": "Smartphones",
+    "price": 370,
+    "description": "This is Smartphones product 2, high-quality and reliable.",
+    "Specification": [
+      "Spec 2A",
+      "Spec 2B",
+      "Spec 2C"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 33,
+    "product_title": "Smartphones Product 3",
+    "product_image": "https://picsum.photos/seed/smartphones3/400/300",
+    "category": "Smartphones",
+    "price": 380,
+    "description": "This is Smartphones product 3, high-quality and reliable.",
+    "Specification": [
+      "Spec 3A",
+      "Spec 3B",
+      "Spec 3C"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 34,
+    "product_title": "Smartphones Product 4",
+    "product_image": "https://picsum.photos/seed/smartphones4/400/300",
+    "category": "Smartphones",
+    "price": 390,
+    "description": "This is Smartphones product 4, high-quality and reliable.",
+    "Specification": [
+      "Spec 4A",
+      "Spec 4B",
+      "Spec 4C"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 35,
+    "product_title": "Smartphones Product 5",
+    "product_image": "https://picsum.photos/seed/smartphones5/400/300",
+    "category": "Smartphones",
+    "price": 400,
+    "description": "This is Smartphones product 5, high-quality and reliable.",
+    "Specification": [
+      "Spec 5A",
+      "Spec 5B",
+      "Spec 5C"
+    ],
+    "availability": false,
+    "rating": 3.5,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 36,
+    "product_title": "Smartphones Product 6",
+    "product_image": "https://picsum.photos/seed/smartphones6/400/300",
+    "category": "Smartphones",
+    "price": 410,
+    "description": "This is Smartphones product 6, high-quality and reliable.",
+    "Specification": [
+      "Spec 6A",
+      "Spec 6B",
+      "Spec 6C"
+    ],
+    "availability": true,
+    "rating": 3.8,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 37,
+    "product_title": "Smartphones Product 7",
+    "product_image": "https://picsum.photos/seed/smartphones7/400/300",
+    "category": "Smartphones",
+    "price": 420,
+    "description": "This is Smartphones product 7, high-quality and reliable.",
+    "Specification": [
+      "Spec 7A",
+      "Spec 7B",
+      "Spec 7C"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 38,
+    "product_title": "Smartphones Product 8",
+    "product_image": "https://picsum.photos/seed/smartphones8/400/300",
+    "category": "Smartphones",
+    "price": 430,
+    "description": "This is Smartphones product 8, high-quality and reliable.",
+    "Specification": [
+      "Spec 8A",
+      "Spec 8B",
+      "Spec 8C"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 39,
+    "product_title": "Smartphones Product 9",
+    "product_image": "https://picsum.photos/seed/smartphones9/400/300",
+    "category": "Smartphones",
+    "price": 440,
+    "description": "This is Smartphones product 9, high-quality and reliable.",
+    "Specification": [
+      "Spec 9A",
+      "Spec 9B",
+      "Spec 9C"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 40,
+    "product_title": "Smartphones Product 10",
+    "product_image": "https://picsum.photos/seed/smartphones10/400/300",
+    "category": "Smartphones",
+    "price": 450,
+    "description": "This is Smartphones product 10, high-quality and reliable.",
+    "Specification": [
+      "Spec 10A",
+      "Spec 10B",
+      "Spec 10C"
+    ],
+    "availability": true,
+    "rating": 3.5,
+    "brand": "Brand Smartphones"
+  },
+  {
+    "product_id": 41,
+    "product_title": "MacBooks Product 1",
+    "product_image": "https://picsum.photos/seed/macbooks1/400/300",
+    "category": "MacBooks",
+    "price": 460,
+    "description": "This is MacBooks product 1, high-quality and reliable.",
+    "Specification": [
+      "Spec 1A",
+      "Spec 1B",
+      "Spec 1C"
+    ],
+    "availability": false,
+    "rating": 3.8,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 42,
+    "product_title": "MacBooks Product 2",
+    "product_image": "https://picsum.photos/seed/macbooks2/400/300",
+    "category": "MacBooks",
+    "price": 470,
+    "description": "This is MacBooks product 2, high-quality and reliable.",
+    "Specification": [
+      "Spec 2A",
+      "Spec 2B",
+      "Spec 2C"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 43,
+    "product_title": "MacBooks Product 3",
+    "product_image": "https://picsum.photos/seed/macbooks3/400/300",
+    "category": "MacBooks",
+    "price": 480,
+    "description": "This is MacBooks product 3, high-quality and reliable.",
+    "Specification": [
+      "Spec 3A",
+      "Spec 3B",
+      "Spec 3C"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 44,
+    "product_title": "MacBooks Product 4",
+    "product_image": "https://picsum.photos/seed/macbooks4/400/300",
+    "category": "MacBooks",
+    "price": 490,
+    "description": "This is MacBooks product 4, high-quality and reliable.",
+    "Specification": [
+      "Spec 4A",
+      "Spec 4B",
+      "Spec 4C"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 45,
+    "product_title": "MacBooks Product 5",
+    "product_image": "https://picsum.photos/seed/macbooks5/400/300",
+    "category": "MacBooks",
+    "price": 500,
+    "description": "This is MacBooks product 5, high-quality and reliable.",
+    "Specification": [
+      "Spec 5A",
+      "Spec 5B",
+      "Spec 5C"
+    ],
+    "availability": false,
+    "rating": 3.5,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 46,
+    "product_title": "MacBooks Product 6",
+    "product_image": "https://picsum.photos/seed/macbooks6/400/300",
+    "category": "MacBooks",
+    "price": 510,
+    "description": "This is MacBooks product 6, high-quality and reliable.",
+    "Specification": [
+      "Spec 6A",
+      "Spec 6B",
+      "Spec 6C"
+    ],
+    "availability": true,
+    "rating": 3.8,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 47,
+    "product_title": "MacBooks Product 7",
+    "product_image": "https://picsum.photos/seed/macbooks7/400/300",
+    "category": "MacBooks",
+    "price": 520,
+    "description": "This is MacBooks product 7, high-quality and reliable.",
+    "Specification": [
+      "Spec 7A",
+      "Spec 7B",
+      "Spec 7C"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 48,
+    "product_title": "MacBooks Product 8",
+    "product_image": "https://picsum.photos/seed/macbooks8/400/300",
+    "category": "MacBooks",
+    "price": 530,
+    "description": "This is MacBooks product 8, high-quality and reliable.",
+    "Specification": [
+      "Spec 8A",
+      "Spec 8B",
+      "Spec 8C"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 49,
+    "product_title": "MacBooks Product 9",
+    "product_image": "https://picsum.photos/seed/macbooks9/400/300",
+    "category": "MacBooks",
+    "price": 540,
+    "description": "This is MacBooks product 9, high-quality and reliable.",
+    "Specification": [
+      "Spec 9A",
+      "Spec 9B",
+      "Spec 9C"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Brand MacBooks"
+  },
+  {
+    "product_id": 50,
+    "product_title": "MacBooks Product 10",
+    "product_image": "https://picsum.photos/seed/macbooks10/400/300",
+    "category": "MacBooks",
+    "price": 550,
+    "description": "This is MacBooks product 10, high-quality and reliable.",
+    "Specification": [
+      "Spec 10A",
+      "Spec 10B",
+      "Spec 10C"
+    ],
+    "availability": true,
+    "rating": 3.5,
+    "brand": "Brand MacBooks"
+  }
+]

@@ -1,0 +1,38 @@
+  [
+  {
+    "product_id": 26,
+    "product_title": "Accessories Product 6",
+    "product_image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=200&q=80",
+    "category": "Accessories",
+    "price": 310,
+    "description": "This is Accessories product 6, high-quality and reliable.",
+    "Specification": ["Spec 6A", "Spec 6B", "Spec 6C"],
+    "availability": true,
+    "rating": 3.8,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 27,
+    "product_title": "Accessories Product 7",
+    "product_image": "https://images.unsplash.com/photo-1512499617640-c2f9992f0a3b?auto=format&fit=crop&w=200&q=80",
+    "category": "Accessories",
+    "price": 320,
+    "description": "This is Accessories product 7, high-quality and reliable.",
+    "Specification": ["Spec 7A", "Spec 7B", "Spec 7C"],
+    "availability": false,
+    "rating": 4.1,
+    "brand": "Brand Accessories"
+  },
+  {
+    "product_id": 28,
+    "product_title": "Accessories Product 8",
+    "product_image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=200&q=80",
+    "category": "Accessories",
+    "price": 330,
+    "description": "This is Accessories product 8, high-quality and reliable.",
+    "Specification": ["Spec 8A", "Spec 8B", "Spec 8C"],
+    "availability": true,
+    "rating": 4.4,
+    "brand": "Brand Accessories"
+  }
+]
